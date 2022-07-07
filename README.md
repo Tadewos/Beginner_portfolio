@@ -1,5 +1,5 @@
 # ML Beginner Portfolio Projects
-Below are my introductory machine learning projects inclusing computer vision and NLP.
+Below are my introductory machine learning projects including Computer Vision and NLP.
 
 ### [Project 1: CIFAR project](https://github.com/Tadewos/ML_Beginner_Projects)
 
