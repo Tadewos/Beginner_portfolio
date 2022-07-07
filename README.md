@@ -12,6 +12,6 @@ This project is one of the most common introductory machine learning projects th
 *Hidden Layer - uses dense layer along with Relu activation
 *Output Layer - uses dense layer with 10 neurons for the 10 categories of clothing
 
-### Project 3: FeedForward NN project
+### [Project 3: FeedForward NN project] (https://github.com/Tadewos/FeedForward-Neural-Network)
 
 This is a simple diabetes detection model using a feedforward (dense) neural network There's no real correlation between given data and outcome (diabetes test) as shown in histogram (in ipynb file); hence, it'll be useful to implement a machine learning model that can draw a relationship for us.
