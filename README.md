@@ -8,9 +8,9 @@ This is an introductory computer vision project using the CIFAR-10 image dataset
 ### [Project 2: MNIST project](https://github.com/Tadewos/ML_Beginner_Projects)
 
 This project is one of the most common introductory machine learning projects that uses the MNIST Fashion Dataset included in keras (Tensorflow). The dataset includes 60,000 images for training and 10,000 images for validation/testing. The objective is to build a neural network model that trains from labeled images (under 10 categories including dress, shirt, ..etc) and can later categorize images from test data. Test data are also labeled making it simple to evaluate if the model performs well. Three layers were applied in this NN.
-*Input Layer - uses flatten layer to convert 28x28 pixel data into 784 neurons
-*Hidden Layer - uses dense layer along with Relu activation
-*Output Layer - uses dense layer with 10 neurons for the 10 categories of clothing
+* Input Layer - uses flatten layer to convert 28x28 pixel data into 784 neurons
+* Hidden Layer - uses dense layer along with Relu activation
+* Output Layer - uses dense layer with 10 neurons for the 10 categories of clothing
 
 ### [Project 3: FeedForward NN project](https://github.com/Tadewos/FeedForward-Neural-Network)
 
